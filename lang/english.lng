@@ -1,0 +1,35 @@
+﻿##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions	
+STR_GRF_NAME	:HVW Ganz UV Trams
+STR_GRF_DESC	:{}{LTBLUE}UV Ganz Trams{}{BLACK}Last update:{WHITE} 2022.03.30 {}{BLACK}Code and model:{GREEN}SosMakaroni{} {COPYRIGHT}2022 SosMakaroni{}{GRAY}License: GPLv2{}{BLACK}Tatra Trams.
+
+STR_PARAM_BUY_NAME	:Purchase cost
+STR_PARAM_BUY_DESC	:For players who want to choose the purchase cost.
+STR_PARAM_MAINTENANCE_NAME	:Maintenance costs
+STR_PARAM_MAINTENANCE_DESC	:For players who want to choose the cost of maintenance.
+STR_PARAM_GAME_VERY_EASY	:/4
+STR_PARAM_GAME_EASY	:/2
+STR_PARAM_GAME_NORMAL	:1 {SILVER} By default{BLACK}
+STR_PARAM_GAME_HARD	:x2
+STR_PARAM_GAME_VERY_HARD	:x4
+
+STR_TM_01_NAME	:Ganz TM
+STR_TM_01_ADAT	:{GOLD}----------{}The {BLACK}GanzTM{GOLD} is a four-axis, two-way, solo tram manufactured by Ganz between 1940 and 1943.{}The type was built based on the American PCC design that became famous in the 1930s.{}{BLACK}Nickname:{GOLD} Stuka (Ju 87){BLACK}{}
+STR_TV_03_NAME	:Ganz TV {Triple}
+STR_TV_03_ADAT	:{GOLD}----------{}The {BLACK}Ganz TV{GOLD} was made from three TM cars damaged in World War II.{}The remote control of the electric braking of the cars was also solved, their middle door became double-leaf.{}{BLACK}Nickname:{GOLD} Szellem (Ghost){BLACK}{}
+STR_UV11_01_NAME	:Ganz UV1
+STR_UV11_01_ADAT	:{GOLD}----------{}The {BLACK}Ganz UV{GOLD} type was developed from TM cars.{}{BLACK}Version: {GOLD}2 driving positions{BLACK}{}
+STR_UV12_02_NAME	:Ganz UV1 {Double}
+STR_UV12_02_ADAT	:{GOLD}----------{}The {BLACK}Ganz UV{GOLD} type was developed from TM cars.{}{BLACK}Version: {GOLD}2 driving positions{BLACK}{}
+STR_UV32_02_NAME	:Ganz UV3 {Double}
+STR_UV32_02_ADAT	:{GOLD}----------{}The {BLACK}Ganz UV{GOLD} type was developed from TM cars.{}{BLACK}Version: {GOLD}1 driving positions{BLACK}{}
+STR_UV52_02_NAME	:Ganz UV5 {Double}
+STR_UV52_02_ADAT	:{GOLD}----------{}The {BLACK}Ganz UV{GOLD} type was developed from TM cars.{}{BLACK}Version: {GOLD}Wide middle door{BLACK}{}
+
+
+STR_COLOUR_SCHEME_BUDAPEST	: - Budapest Scheme
+STR_COLOUR_SCHEME_PEPSI	: - Pepsi advertising Scheme
+STR_COLOUR_SCHEME_3	: - Color Scheme 3
+STR_COLOUR_SCHEME_4	: - Color Scheme 4

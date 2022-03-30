@@ -1,0 +1,8 @@
+sort(FEAT_ROADVEHS, [
+	item_TM_01,
+	item_TV_03,
+	item_UV11_01,
+	item_UV12_02,
+	item_UV32_02,
+	item_UV52_02
+	]);
